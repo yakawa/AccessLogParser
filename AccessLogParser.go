@@ -1,4 +1,4 @@
-package accesslogparser
+package AccessLogParser
 
 import (
 	"github.com/yakawa/AccessLogParser/AccessLog"
